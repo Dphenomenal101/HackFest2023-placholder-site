@@ -1,6 +1,7 @@
 html,
 body,
 #root {
+  scale: 0.67;
   background-color: #5D5CD6;
   margin: auto;
   padding: 0;
