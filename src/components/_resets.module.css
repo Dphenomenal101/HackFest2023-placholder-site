@@ -1,5 +1,5 @@
-:where(.storybrainResets),
-:where(.storybrainResets) * {
+.storybrainResets,
+.storybrainResets * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -11,26 +11,26 @@
   overflow-wrap: anywhere;
 }
 
-:where(.storybrainResets),
-:where(.storybrainResets) :not(span, a, ul, ol, li, p) {
+.storybrainResets,
+.storybrainResets :not(span, a, ul, ol, li, p) {
   display: flex;
 }
 
-:where(.storybrainResets) ul,
-:where(.storybrainResets) ol {
+.storybrainResets ul,
+.storybrainResets ol {
   text-indent: 0;
   padding-inline-start: 1.5em;
 }
 
-:where(.storybrainResets) p:empty::before {
+.storybrainResets p:empty::before {
   content: '';
   display: inline-block;
 }
 
-:where(.storybrainResets) img {
+.storybrainResets img {
   object-fit: contain;
 }
 
-:where(.storybrainResets) svg {
+.storybrainResets svg {
   overflow: visible;
 }

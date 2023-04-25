@@ -36,12 +36,195 @@
   width: 100%;
   height: 100%;
 }
+.august2126 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 300;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  position: absolute;
+  left: 556px;
+  top: 471px;
+  width: 262px;
+  height: 58px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.lagosNigeria {
+  color: #fff;
+  font-size: 50px;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  position: absolute;
+  left: 506px;
+  top: 521px;
+  width: 361px;
+  height: 58px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.becomeASponsor {
+  position: absolute;
+  left: 278px;
+  top: 633px;
+  width: 378px;
+  height: 107px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  padding: 17px 24px;
+  border-radius: 16px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.frame14 {
+  width: min-content;
+  height: min-content;
+}
+.becomeASponsor2 {
+  color: #5d5cd6;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.speakAtHackFest {
+  position: absolute;
+  left: 718px;
+  top: 633px;
+  width: 378px;
+  height: 107px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  padding: 17px 24px;
+  outline: solid 5px #aeadea;
+  outline-offset: -5px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.frame142 {
+  width: min-content;
+  height: 14px;
+  align-items: center;
+}
+.speakAtHackFest2 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.getTickets {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  position: absolute;
+  left: 189px;
+  top: 860px;
+  width: 182px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.arrow1 {
+  position: absolute;
+  left: 371px;
+  top: 870.1421px;
+  width: 21.2132px;
+  height: 21.2132px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.viewPastPictures {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  position: absolute;
+  left: 556px;
+  top: 860px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.arrow2 {
+  position: absolute;
+  left: 842px;
+  top: 869px;
+  width: 21.2132px;
+  height: 21.2132px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.tweetsFrom2022 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.03em;
+  position: absolute;
+  left: 975px;
+  top: 861px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.arrow3 {
+  position: absolute;
+  left: 1252px;
+  top: 871px;
+  width: 21.2132px;
+  height: 21.2132px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
 .seeYouAtTheGenZHackFest2023 {
   position: absolute;
-  left: 166px;
-  top: 194px;
+  left: 199px;
+  top: 185px;
   width: 1041px;
-  height: 223px;
+  height: 222px;
   text-align: center;
   align-items: center;
   flex-direction: column;
@@ -102,189 +285,4 @@
   font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
     'Liberation Sans', sans-serif;
   letter-spacing: -0.03em;
-}
-.august2126 {
-  color: #fff;
-  font-size: 40px;
-  font-weight: 300;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  position: absolute;
-  left: 556px;
-  top: 471px;
-  width: 262px;
-  height: 58px;
-  text-align: center;
-  align-items: center;
-  flex-direction: column;
-}
-.lagosNigeria {
-  color: #fff;
-  font-size: 50px;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  position: absolute;
-  left: 506px;
-  top: 521px;
-  width: 361px;
-  height: 58px;
-  text-align: center;
-  align-items: center;
-  flex-direction: column;
-}
-.button {
-  position: absolute;
-  left: 278px;
-  top: 633px;
-  width: 378px;
-  height: 107px;
-  flex-direction: column;
-  place-content: center;
-  align-items: center;
-  padding: 17px 24px;
-  border-radius: 16px;
-  background-color: #fff;
-  overflow: hidden;
-}
-.frame14 {
-  width: min-content;
-  height: 14px;
-  align-items: center;
-}
-.joinTheCommunity {
-  color: #5d5cd6;
-  font-size: 30px;
-  font-weight: 600;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  width: min-content;
-  height: min-content;
-  text-align: center;
-  align-items: center;
-  white-space: nowrap;
-  flex-direction: column;
-}
-.button2 {
-  position: absolute;
-  left: 718px;
-  top: 633px;
-  width: 378px;
-  height: 107px;
-  flex-direction: column;
-  place-content: center;
-  align-items: center;
-  padding: 17px 24px;
-  outline: solid 5px #aeadea;
-  outline-offset: -5px;
-  border-radius: 16px;
-  overflow: hidden;
-}
-.frame142 {
-  width: min-content;
-  height: 14px;
-  align-items: center;
-}
-.joinTheCommunity2 {
-  color: #fff;
-  font-size: 30px;
-  font-weight: 600;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  width: min-content;
-  height: min-content;
-  text-align: center;
-  align-items: center;
-  white-space: nowrap;
-  flex-direction: column;
-}
-.joinTheCommunity3 {
-  color: #fff;
-  font-size: 30px;
-  font-weight: 600;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  position: absolute;
-  left: 189px;
-  top: 860px;
-  width: min-content;
-  height: min-content;
-  text-align: center;
-  align-items: center;
-  white-space: nowrap;
-  flex-direction: column;
-}
-.joinTheCommunity4 {
-  color: #fff;
-  font-size: 30px;
-  font-weight: 600;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  position: absolute;
-  left: 553px;
-  top: 860px;
-  width: min-content;
-  height: min-content;
-  text-align: center;
-  align-items: center;
-  white-space: nowrap;
-  flex-direction: column;
-}
-.joinTheCommunity5 {
-  color: #fff;
-  font-size: 30px;
-  font-weight: 600;
-  font-family: Sora, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
-    'Liberation Sans', sans-serif;
-  letter-spacing: -0.03em;
-  position: absolute;
-  left: 972px;
-  top: 860px;
-  width: min-content;
-  height: min-content;
-  text-align: center;
-  align-items: center;
-  white-space: nowrap;
-  flex-direction: column;
-}
-.arrow1 {
-  position: absolute;
-  left: 371px;
-  top: 870.1421px;
-  width: 21.2132px;
-  height: 21.2132px;
-  overflow: visible;
-}
-.icon3 {
-  width: 100%;
-  height: 100%;
-}
-.arrow2 {
-  position: absolute;
-  left: 839px;
-  top: 869px;
-  width: 21.2132px;
-  height: 21.2132px;
-  overflow: visible;
-}
-.icon4 {
-  width: 100%;
-  height: 100%;
-}
-.arrow3 {
-  position: absolute;
-  left: 1252px;
-  top: 869px;
-  width: 21.2132px;
-  height: 21.2132px;
-  overflow: visible;
-}
-.icon5 {
-  width: 100%;
-  height: 100%;
 }

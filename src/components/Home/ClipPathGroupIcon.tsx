@@ -3,7 +3,7 @@ import { memo, SVGProps } from 'react';
 const ClipPathGroupIcon = (props: SVGProps<SVGSVGElement>) => (
   <svg preserveAspectRatio='none' viewBox='0 0 1440 1000' fill='none' xmlns='http://www.w3.org/2000/svg' {...props}>
     <mask
-      id='mask0_3_176'
+      id='mask0_715_3851'
       style={{
         maskType: 'luminance',
       }}
@@ -15,7 +15,7 @@ const ClipPathGroupIcon = (props: SVGProps<SVGSVGElement>) => (
     >
       <path d='M0 0H1440V1000H0V0Z' fill='white' />
     </mask>
-    <g mask='url(#mask0_3_176)'>
+    <g mask='url(#mask0_715_3851)'>
       <path
         d='M91.7773 229.697L267.505 296.46C273.49 298.733 276.082 306.516 273.297 313.846C270.513 321.173 263.408 325.272 257.424 322.998L51.9054 244.917C40.6642 240.647 40.9254 222.091 52.333 214.711L241.95 91.9732C247.535 88.3589 254.016 89.8629 257.017 95.4744C260.551 102.074 257.887 111.59 251.319 115.843L91.9284 219.014C87.8954 221.624 87.8026 228.187 91.7773 229.697Z'
         fill='white'
