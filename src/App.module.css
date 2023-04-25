@@ -2,7 +2,7 @@
   height: 100%;
   font-family: sans-serif;
   background-color: __backgroundColor__;
-  flex-basis: 100%;
+  flex-basis: auto;
   overflow-y: hidden;
   /* __center__ */
 }
