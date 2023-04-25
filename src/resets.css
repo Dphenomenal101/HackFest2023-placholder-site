@@ -3,7 +3,8 @@ body,
 #root {
   scale: 1;
   background-color: #5D5CD6;
-  margin: auto;
+  margin-top: -10px;
+  margin-left: -10px;
   padding: 0;
   min-height: auto;
   display: flex;
