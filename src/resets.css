@@ -2,6 +2,7 @@ html,
 body,
 #root {
   margin: 0;
+  margin-left: 0px;
   padding: 0;
   min-height: auto;
   display: flex;
