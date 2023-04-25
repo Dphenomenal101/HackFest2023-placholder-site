@@ -1,28 +1,57 @@
-html,
-body,
-#root {
+/* Set the default font size */
+html {
+  font-size: 16px;
+}
+
+/* Scale the whole content down to 67% */
+body {
+  font-size: 67%;
+}
+
+/* Reset margin and padding for all elements */
+* {
   margin: 0;
   padding: 0;
-  min-height: auto;
+  box-sizing: border-box;
+}
+
+/* Set height of html and body to 100% */
+html, body {
+  height: 100%;
+}
+
+/* Set flex properties for #root */
+#root {
   display: flex;
-  flex-basis: auto;
-  width: auto;
+  flex-direction: column;
+  flex: 1;
   overflow-x: hidden; /* Hide horizontal scrollbar */
   overflow-y: scroll; /* Add vertical scrollbar */
 }
 
+/* Set position of #root to relative */
 #root {
   position: relative;
 }
 
-body button:not(:disabled) {
+/* Style buttons */
+button:not(:disabled) {
   cursor: pointer;
   -webkit-user-select: none;
   user-select: none;
 }
 
-body label {
+/* Style labels */
+label {
   cursor: pointer;
   -webkit-user-select: none;
   user-select: none;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 768px) {
+  /* Set font size to 14px */
+  html {
+    font-size: 14px;
+  }
 }
