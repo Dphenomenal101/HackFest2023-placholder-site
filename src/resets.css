@@ -9,7 +9,7 @@ body,
   flex-basis: auto;
   width: auto;
   overflow-x: hidden; /* Hide horizontal scrollbar */
-  overflow-y: scroll; /* Add vertical scrollbar */
+  overflow-y: hidden; 
 }
 
 #root {
