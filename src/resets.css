@@ -8,7 +8,6 @@ body,
   min-height: auto;
   display: flex;
   flex-basis: auto;
-  justify-content: center;
   width: auto;
   overflow-x: hidden; /* Hide horizontal scrollbar */
   overflow-y: auto; 
