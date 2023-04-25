@@ -1,14 +1,14 @@
 html,
 body,
 #root {
-  scale: 1;
+  scale: 0.8;
   background-color: #5D5CD6;
-  margin-top: -10px;
-  margin-left: -10px;
+  margin: auto;
   padding: 0;
   min-height: auto;
   display: flex;
   flex-basis: auto;
+  justify-content: center;
   width: auto;
   overflow-x: hidden; /* Hide horizontal scrollbar */
   overflow-y: auto; 
